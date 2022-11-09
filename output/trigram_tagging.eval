@@ -1,0 +1,17 @@
+Comparing gold file "de-eval.tt" and system file "trigram_tagging.tt"
+
+Precision, recall, and F1 score:
+ PRON 0.7579 0.7537 0.7558
+  DET 0.7826 0.9045 0.8391
+ NOUN 0.9243 0.8621 0.8921
+ VERB 0.9038 0.9051 0.9044
+  ADP 0.8992 0.9171 0.9080
+    . 0.9576 0.9777 0.9676
+ CONJ 0.8744 0.8637 0.8690
+  ADV 0.9001 0.7182 0.7989
+  ADJ 0.7724 0.7280 0.7495
+  NUM 0.6645 0.7481 0.7038
+  PRT 0.6932 0.9349 0.7961
+    X 0.0172 0.1364 0.0306
+
+Accuracy: 0.8652
