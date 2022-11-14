@@ -1,8 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov  5 16:45:59 2021
+Created using PyCharm
 
-@author: marb
+@author: Mariam Bangura
+@e-mail: maba00008@stud.uni-saarland.de
+
+
 """
 
 from collections import Counter

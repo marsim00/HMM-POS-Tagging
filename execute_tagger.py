@@ -1,6 +1,11 @@
 """
+Created using PyCharm
+
+@author: Mariam Bangura
+@e-mail: maba00008@stud.uni-saarland.de
 
 """
+
 from tagger_funcs import *
 import nltk.corpus.reader as ncr
 import argparse
