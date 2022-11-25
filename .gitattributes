@@ -1,0 +1,3 @@
+*.t linguist-detectable=false
+*.tt linguist-detectable=false
+*.eval linguist-detectable=false
